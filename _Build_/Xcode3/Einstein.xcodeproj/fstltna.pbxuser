@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A5CBB2CE14878E5E0030D915 /* iOSEinstein */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = C9B4AA23123D471D00D8D2C7 /* iOSEinstein */;
+		addToTargets = (
+			C9B4AA23123D471D00D8D2C7 /* iOSEinstein */,
+		);
+		codeSenseManager = A5CBB2EF14878F130030D915 /* Code sense */;
+		executables = (
+			A5CBB2CD14878E5E0030D915 /* Einstein */,
+			A5CBB2CE14878E5E0030D915 /* iOSEinstein */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 348294499;
+			PBXWorkspaceStateSaveDate = 348294499;
+		};
+		perUserProjectItems = {
+			A50FCFCC14ADF09700B5FA6E = A50FCFCC14ADF09700B5FA6E /* PlistBookmark */;
+			A50FCFD414ADF10200B5FA6E = A50FCFD414ADF10200B5FA6E /* PlistBookmark */;
+			A5514A0E14BE6BFB0058017A = A5514A0E14BE6BFB0058017A /* PlistBookmark */;
+			A553AA4B14C28D7D00EE6CCA /* PlistBookmark */ = A553AA4B14C28D7D00EE6CCA /* PlistBookmark */;
+			A5670B90148B5939004C99F3 = A5670B90148B5939004C99F3 /* PBXBookmark */;
+			A5736F7F14B4015600611E29 = A5736F7F14B4015600611E29 /* PlistBookmark */;
+			A5A811CA14B6FBCB00E33F7D = A5A811CA14B6FBCB00E33F7D /* PlistBookmark */;
+			A5CBB3381487A2DF0030D915 = A5CBB3381487A2DF0030D915 /* PBXBookmark */;
+			A5D55B6814A96633005EA3F7 = A5D55B6814A96633005EA3F7 /* PlistBookmark */;
+			A5D55B6914A96633005EA3F7 = A5D55B6914A96633005EA3F7 /* PlistBookmark */;
+			A5D9496E14B38CBF008499A6 = A5D9496E14B38CBF008499A6 /* PlistBookmark */;
+			A5FC5E2514B4703B0028B667 = A5FC5E2514B4703B0028B667 /* PlistBookmark */;
+		};
+		sourceControlManager = A5CBB2EE14878F130030D915 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Einstein */ = {
+		activeExec = 0;
+		executables = (
+			A5CBB2CD14878E5E0030D915 /* Einstein */,
+		);
+	};
+	A50FCFCC14ADF09700B5FA6E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 5;
+		rLoc = 0;
+	};
+	A50FCFD414ADF10200B5FA6E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A5514A0E14BE6BFB0058017A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	A553AA4B14C28D7D00EE6CCA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	A5670B90148B5939004C99F3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C99FDB7312D40365002FC776 /* Icon.png */;
+	};
+	A5736F7F14B4015600611E29 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	A5A811CA14B6FBCB00E33F7D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 5;
+	};
+	A5CBB2CD14878E5E0030D915 /* Einstein */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Einstein;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A5CBB2CE14878E5E0030D915 /* iOSEinstein */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iOSEinstein;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	A5CBB2EE14878F130030D915 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				../../.. = "";
+			};
+		};
+	};
+	A5CBB2EF14878F130030D915 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A5CBB3381487A2DF0030D915 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C99FDB7212D40365002FC776 /* Icon-72.png */;
+	};
+	A5D55B6814A96633005EA3F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A5D55B6914A96633005EA3F7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 5;
+		rLoc = 0;
+	};
+	A5D9496E14B38CBF008499A6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	A5FC5E2514B4703B0028B667 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = C97C7EA01242832700CDCD05 /* iEinstein-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/fstltna/Documents/einstein/einstein-read-only/Einstein/_Build_/Xcode3/iEinstein-Info.plist";
+		rLen = 0;
+		rLoc = 0;
+	};
+	C9B4AA23123D471D00D8D2C7 /* iOSEinstein */ = {
+		activeExec = 0;
+		executables = (
+			A5CBB2CE14878E5E0030D915 /* iOSEinstein */,
+		);
+	};
+}

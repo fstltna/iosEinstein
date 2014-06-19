@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>iOSEinstein</string>
+	<key>CFBundleExecutable</key>
+	<string>iOSEinstein</string>
+	<key>CFBundleIconFile</key>
+	<string>einstein_tongue-150x150.png</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string></string>
+		<string>einstein_tongue-150x150.png</string>
+	</array>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string></string>
+				<string>einstein_tongue-150x150.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.pocketfiction.einstein</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>iOSEinstein</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>FLID</string>
+	<key>CFBundleVersion</key>
+	<string>1.1.11</string>
+	<key>Icon files</key>
+	<array>
+		<string>Icon.png</string>
+		<string>Icon-72.png</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>NSMainNibFile~ipad</key>
+	<string>MainWindow_iPad</string>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6562A7EF-3243-481F-9E71-05C2838A2F3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Einstein</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>685DF3F1-8157-4092-839E-AA9CB1DF2791</key>
+		<string>http://einstein.googlecode.com/svn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Einstein/_Build_/Xcode4/Einstein.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>685DF3F1-8157-4092-839E-AA9CB1DF2791</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>685DF3F1-8157-4092-839E-AA9CB1DF2791</key>
+		<string>http://einstein.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://einstein.googlecode.com/svn/trunk/Einstein/_Build_/Xcode4/Einstein.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>685DF3F1-8157-4092-839E-AA9CB1DF2791</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>685DF3F1-8157-4092-839E-AA9CB1DF2791</string>
+			<key>IDESourceControlWCCName</key>
+			<string>einstein-read-only</string>
+		</dict>
+	</array>
+</dict>
+</plist>
